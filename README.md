@@ -1,2 +1,2 @@
 # Predicting-Actual-COVID19-Cases
-Project aimed to determine the actual number of COVID19 cases from March 2020 - May 2020 using the number of deaths as the predictor. Assignment completed for EE3020 'Engineering Applications of Machine Learning'. Final grade was 90%.
+This project aimed to determine the actual number of COVID19 cases from 01/03/2020 - 31/05/2020 using the number of deaths as the predictor. The project was based on the premise that not enough tests were available to determine the true number of cases in Ireland at the time. A number of models were evaluated on the data from 01/06/20 - 02/03/21. The assignment was completed for EE3020 'Engineering Applications of Machine Learning'. Final grade was 90%.
